@@ -1,0 +1,27 @@
+:root {
+    --blue: #2e5fc8;
+    --dark-blue: #253746;
+    --white: #fff;
+    --dark: #232222;
+    --very-dark: #1b1b1b;
+    --mid-dark: #101820;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+
+.btn {
+    background: var(--blue);
+    padding: 15px 25px;
+    color: var(--white);
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+}

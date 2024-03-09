@@ -1,0 +1,18 @@
+/* mobile response */
+@media (max-width: 375px) {
+    .header-text h1 {
+        font-size: 4rem;
+        letter-spacing: -2px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        margin-top: 35px;
+    }
+    .header-text h4 {
+        font-size: 1rem;
+    }
+    .about-us,
+    .vue-us {
+        margin: 50px 0 170px 0;
+    }
+
+}
